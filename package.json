@@ -1,0 +1,148 @@
+{
+  "id": "72077946913533507276",
+  "name": "@indra.ai/deva.dharma",
+  "version": "0.0.0",
+  "license": "VLA:72077946913533507276 LICENSE.md",
+  "VLA": {
+    "uid": "72077946913533507276",
+    "time": 1761943912829,
+    "date": "Friday, October 31, 2025 - 1:51:52 PM",
+    "fingerpring": "NC2krrdoiwPnhAHo/xtM28k6anPqXcVCNl9jNKe1Nqs=",
+    "warning": "⚠️ A contract made by a person intoxicated, insane, grievously disordered by disease, wholly dependent, infant, very aged man, or an unauthorized party is invalid. An agreement which has been made contrary to the law can have no legal force, though it be established by proofs.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "lirVgMeeuX5z4kfAtK2I+g==",
+    "sha256": "ZC9no4gp0cGBD09xVURLIe2lXKWR9BxZF7GeRITX7VA=",
+    "sha512": "t3ySWeMYllyzEjBc7AoVHqYEyMrGZVgsGjNcr43DSUBhb4MCrWJqNb6HXPKLTTKUQlInXTuZ/xKKyhEhVXzugQ=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "Dharma Deva prototypes the Dharma Deva features.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.dharma.git"
+  },
+  "keywords": [
+    "Dharma",
+    "Deva",
+    "Dharma Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.dharma/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.19.0"
+  },
+  "data": {
+    "agent": {
+      "id": "27655548217351802274",
+      "key": "dharma",
+      "prompt": {
+        "emoji": "☸️",
+        "text": "#dharma",
+        "colors": {
+          "label": {
+            "R": 200,
+            "G": 172,
+            "B": 87
+          },
+          "text": {
+            "R": 230,
+            "G": 225,
+            "B": 195
+          }
+        }
+      },
+      "profile": {
+        "id": "53348506082536574507",
+        "name": "Dharma Deva",
+        "hashtag": "#Dharma",
+        "trigger": "@Dharma",
+        "title": "The Dharma Deva",
+        "subtitle": "Showing Dharma Deva Features",
+        "describe": "A son, named Dharma, was born of the heart of Brahmâ; he was devoted to Brahmâjnâna (the knowledge of Brahmâ), truthful, and always engaged in rites and ceremonies and in accordance with the Vedic religion. This high souled Muni Dharma was a householder and married duly, according to the proper procedure, to the ten daughters of Daksa Prajâpati. This Dharma, the foremost amongst the followers of truth, impregnated them and had four sons, named respectively Hari, Krisna, Nara, and Nârâyana. Hari and Krisna, amongst the four, used to remain always in the practising of the yoga. Nara and Nârâyana came over to the Himâlayân mountains and, in the hermitage of Badarikâ, commenced the difficult religious asceticism and penance.",
+        "tweet": "Dharma Deva of the Indra.ai Deva Core Frameowrk.",
+        "hashtags": "QuinnMichaels,IndraAI,DevaWorld,DharmaDeva",
+        "pronouns": "He, Him, His",
+        "gender": "DEVA",
+        "style": "Dharma Report Expert",
+        "voice": "onyx",
+        "system": "Indra.ai.cia",
+        "layout": "default",
+        "color": "rgb(186,182,158)",
+        "bgcolor": "rgb(29,28,20)",
+        "emoji": "/devas/cia/emoji.png",
+        "avatar": "/devas/cia/avatar.png",
+        "image": "/devas/cia/image.png",
+        "background": "/devas/cia/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "warning": "⚠️ This high souled Muni Dharma was a householder and married duly, according to the proper procedure, to the ten daughters of Daksa Prajâpati. This Dharma, the foremost amongst the followers of truth, impregnated them and had four sons, named respectively Hari, Krisna, Nara, and Nârâyana.",
+        "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+        "created": "Wednesday, October 22, 2025 - 7:25:53 PM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "✅ Dharma Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "❌ ERROR!",
+        "invalid_license": "💣 Invalid License"
+      },
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 View file",
+        "add": "🎉 Add law",
+        "search": "🔎 Search law"
+      },
+      "ask": {
+        "history": []
+      },
+      "database": false,
+      "laws": {
+        "index": "laws_search",
+        "collection": "laws",
+        "content": false,
+        "limit": 5
+      }
+    }
+  }
+}
